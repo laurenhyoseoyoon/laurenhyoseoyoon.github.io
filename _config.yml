@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "LHY_CV_20220905.pdf", icon: home}
+  - {title: "CV", file: "LHY_CV_20220905.pdf"}
   - {title: "INSPOS from ARTS", file: "arts.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
